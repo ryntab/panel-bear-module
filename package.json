@@ -1,0 +1,9 @@
+{
+  "name": "panel-bear-module",
+  "version": "1.0.0",
+  "main": "lib/module.js",
+  "license": "MIT",
+  "dependencies": {
+    "@panelbear/panelbear-js": "^1.3.3"
+  }
+}
