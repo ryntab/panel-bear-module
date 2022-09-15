@@ -1,8 +1,10 @@
 {
-  "name": "panel-bear-module",
+  "name": "@nuxtjs/panel-bear",
   "version": "1.0.0",
-  "main": "lib/module.js",
+  "description": "Panel Bear Module for Nuxt.js",
+  "repository": "ryntab/panel-bear-module",
   "license": "MIT",
+  "main": "lib/module.js",
   "dependencies": {
     "@panelbear/panelbear-js": "^1.3.3"
   }
