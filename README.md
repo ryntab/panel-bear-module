@@ -2,6 +2,8 @@
 ![Panelbear](/assets/banner.png)
 A simple module for using Panelbear analytics with Nuxt.js
 
+**Panelbear has closed down, and so has this repo** You can check out their new service Cronitor: https://cronitor.io/
+
 ## Installation
 `npm i @ryntab/panel-bear`
 
